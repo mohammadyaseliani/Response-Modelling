@@ -1,2 +1,2 @@
 # Response-Modelling
-This repositorty introduces a small response modelling example in python using a conversion rate dataset. 
+This repositorty introduces a response modelling example in python using a conversion rate dataset. This dataset contains information about whether the users have hitted the website according to their characteristics, including country, age, number of pages visited, etc. The output 1 means that the user has bought something in the website and 0 means that they have left without buying anything. 
